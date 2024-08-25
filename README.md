@@ -1,2 +1,3 @@
 # Estudos
- Primeiro reposítorio versionado
+ Primeiro repositório versionado
+Consegui criar o meu primeiro repositório
